@@ -1,0 +1,215 @@
+#main-menu ul li .nav-active{
+	color: #000000;
+    
+}
+
+.navbar-wrapper .search-content input{    
+    border-top: 5px solid #C02C31;
+}
+
+.search-content form span{
+    color: #C02C31; 
+}
+
+.portfolio_content a.portfolio_button:hover{
+    color: #C02C31;    
+}
+
+#main-menu ul li a:hover{
+    
+}
+
+.nav-active a{
+	color: #000000!important; 
+}
+
+a:hover{
+	color: #C02C31;
+}
+
+
+.copyright_text p a{
+    color: #C02C31; 
+}
+
+.color_bg {
+    background: none repeat scroll 0 0 #C02C31;
+    color: #FFFFFF;
+    padding: 82px 0;
+}
+
+.third_accordion_content h1{
+    background: #C02C31;
+}
+
+.fourth_accordion span {
+	color: #C02C31; 
+}
+
+
+.fifth_accordion h3 {
+    background: url("../images/00_01.png") no-repeat scroll 97% center #C02C31;
+}
+
+.fifth_accordion .ui-state-active{
+    background: url("../images/00_02.png") no-repeat scroll 97% center #ffffff;
+}
+
+.fifth_accordion_default .ui-state-active {
+    background: url("../images/00_24.png") no-repeat scroll 97% center #C02C31;
+    color: #FFFFFF;    
+}
+
+.fifth_accordion_default h3 {
+    background: url("../images/00_01.png") no-repeat scroll 97% center #5D5C5D;
+    text-transform: none;
+    margin-top: 10px!important; 
+}
+
+.sixth_accordion .ui-state-active{
+    color: #C02C31; 
+}
+
+
+.process_accordion{
+	background: #C02C31; 
+}
+
+.curCol{
+    background: #C02C31; 
+    border: 1px solid #C02C31; 
+}
+
+.info-col h3 {
+    color: #FFFFFF;
+}
+
+.curCol h3 {
+    color: #C02C31;
+}
+
+.process_accordion h3 {
+	color: #C02C31; 
+}
+
+
+.first_tab .ui-tabs-active {
+    border-bottom-color: #C02C31;
+    border-left-color: #C02C31;
+    border-right: 2px solid #C02C31 !important;
+    border-top-color: #C02C31;
+}
+
+.inner_tab1{
+    border-top: 2px solid #C02C31;
+}
+
+.third_tab .ui-tabs-active a{
+    background: #C02C31; 
+}
+
+.fourth_tab .ui-tabs-active {
+    background: none repeat scroll 0 0 #C02C31; 
+    border-bottom-color: #C02C31;
+    border-left-color: #C02C31;
+    border-right: 2px solid #C02C31 !important;
+    border-top-color: #C02C31;
+}
+
+.inner_tab4{
+    border-top: 2px solid #C02C31;
+}
+
+.progress-html{
+    background: #C02C31;
+}
+
+/*Skill set 3 Arrow*/
+.our_skill3 .skillset .skill_set_item .progress-bar {
+    border: 1px solid #C02C31;
+}    
+
+.skill3_arrow_box { 
+    position: relative; 
+    border: 1px solid #C02C31; 
+} 
+
+.skill3_arrow_box:after, .skill3_arrow_box:before { 
+    left: 100%; 
+    border: solid transparent; 
+    content: " "; 
+    height: 0; 
+    width: 0; 
+    position: absolute; 
+    pointer-events: none; 
+} 
+
+.skill3_arrow_box:after { 
+    border-color: rgba(255, 255, 255, 0); 
+    border-left-color: #ffffff; 
+    border-width: 18px; 
+    top: 50%; 
+    margin-top: -18px; 
+} 
+
+.skill3_arrow_box:before { 
+    border-color: rgba(26, 188, 156, 0); 
+    border-left-color: #C02C31; 
+    border-width: 19px; 
+    top: 50%; 
+    margin-top: -19px; 
+}
+
+.downloading_position p, .meter_icon {
+    color: #C02C31; 
+}
+
+.service_page .service_content:hover{
+    border-top: 3px solid #C02C31; 
+    border-left: 1px solid #C02C31; 
+    border-right: 1px solid #C02C31; 
+    border-bottom: 1px solid #C02C31; 
+}
+
+.service4 .service_content h1 span{
+    color: #333333; 
+}
+
+.member_designation p{ 
+    background: #C02C31; 
+}
+
+.team_section:hover .team_content{
+    border: 2px solid #C02C31; 
+}
+
+.team_section:hover .team_heading{
+    border-bottom: 2px solid #C02C31; 
+}
+
+.team_social_icon ul li a:hover {
+    border: 2px solid #C02C31;
+    color: #C02C31; 
+}
+
+.recent_post_section .post_content h1:hover{
+    color: #C02C31; 
+}
+
+.team_section2 .member_designation p {
+    border: 2px solid #C02C31;
+    color: #C02C31;
+}
+
+.widget_content .post_content:hover {
+    border-bottom: 1px solid #C02C31;
+}
+
+.widget_content .post_content:hover a{
+    color: #C02C31;
+}
+
+.widget_content .post_content_last:hover{
+    border: none;
+}
+

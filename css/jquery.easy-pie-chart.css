@@ -1,0 +1,118 @@
+.skills {
+    position: relative;
+}
+
+.easyPieChart {
+    position: relative;
+    text-align: center;
+}
+
+.easyPieChart canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.percentage-top {
+    color: #191919;
+    font-size: 54px;
+    font-weight: 600;
+    height: 50px;
+    left: 23%;
+    line-height: normal;
+    position: absolute;
+    top: 22%;
+    z-index: 9;
+}
+
+.skills .label{
+	color:#000;
+	font-size:18px;
+	background:none;
+}
+
+.skill_content {
+    left: 32px;
+    position: absolute;
+    top: 60%;
+    width: 111px;
+}
+
+.skill_content p {
+    color: #5D5C5D;
+    font-size: 17px;
+    font-weight: 600;
+    
+}
+
+.downloding_pipe .percentage-top {
+    color: #191919;
+    font-size: 80px;
+    font-weight: lighter;
+    height: 50px;
+    left: 15%;
+    line-height: normal;
+    position: absolute;
+    top: 19%;
+    z-index: 9;
+}
+
+.downloding_pipe .skill_content {
+    left: 37px;
+    position: absolute;
+    top: 24%;
+    width: 111px;
+}
+
+.downloding_pipe .skill_content p {
+    color: #5D5C5D;
+    font-size: 16px;
+    font-weight: 600;
+    font-weight: bold;
+    
+}
+
+.meter_icon_main {
+    border: 3px solid #dce3e5; 
+    border-radius: 50%;
+    display: inline-block;
+    height: 191px;
+    padding: 5px;
+}
+
+.meter_icon .percentage-top {
+    height: 50px;
+    left: 26%;
+    line-height: normal;
+    position: absolute;
+    top: 13%;
+    z-index: 9;
+}
+
+.meter_icon .skill_content {
+    left: 37px;
+    position: absolute;
+    top: 21%;
+    width: 120px;
+}
+
+.meter_icon .skill_content p {
+    color: #5D5C5D;
+    font-size: 18px;
+    font-weight: 600;
+    font-weight: bold; 
+}
+
+.progress .skill_content {
+    left: 39px;
+    position: absolute;
+    top: 5px;
+    width: 111px;
+}
+
+.progress .skill_content p {
+    color: #5D5C5D;
+    font-size: 32px;
+    font-weight: 600;
+    font-weight: bold; 
+}

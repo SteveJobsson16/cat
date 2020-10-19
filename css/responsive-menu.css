@@ -1,0 +1,140 @@
+#mobnav-btn {
+    display: none;
+    font-size: 16px;    
+    color: white;
+    padding: 14px 0 14px 25px;
+    cursor: pointer;
+    color: #636363; 
+}
+
+#mobnav-btn span {
+    display: inline-block;
+    margin-top: 2px;
+    padding-right: 8px;
+}
+
+.mobnav-subarrow {
+    display: none;
+}
+
+@media only screen and (max-width: 980px) {
+
+.menu_bg{
+    height: 54px; 
+}
+
+#main-menu ul li {
+    border-bottom: 1px solid #EDEDED;
+    float: left;
+    padding: 10px 0;
+}
+
+#main-menu ul li a {
+    padding: 15px 0 15px 20px;
+}
+
+#main-menu ul li{
+    margin: 0px!important; 
+}
+
+#mobnav-btn {
+    display: block;
+}
+
+.mobnav-subarrow {
+    color: #636363;
+    cursor: pointer;
+    display: block;
+    font-size: 20px;
+    opacity: 0.8;
+    position: absolute;
+    right: 10px;
+    text-align: center;
+    top: 12px;
+    width: 30px;
+        -webkit-transition: all .1s ease-in-out;
+        -moz-transition: all .1s ease-in-out;
+        -ms-transition: all .1s ease-in-out;
+        -o-transition: all .1s ease-in-out;
+        transition: all .1s ease-in-out;
+    }
+    .sf-menu {
+        width: 100%!important;
+        display: none;
+    }
+    .sf-menu.xactive {
+        display: block!important;
+    }
+    .sf-menu li {        
+        display: block!important;
+        width: 100%!important;
+    }
+    .sf-menu li a {
+        float: none!important;
+    }
+    .sf-menu ul {
+        position:static!important;
+        display: none!important;
+        width: 100%!important;  
+    }
+    .xpopdrop ul {
+        display: block!important;
+    }
+
+#main-menu ul li{
+    border-left: none;
+    border-right: none;
+    padding: 0; 
+}
+
+#main-menu ul li:hover{
+    border-left: none;
+    border-right: none;
+}
+
+#main-menu {
+    background: none repeat scroll 0 0 #FFFFFF;
+    float: right;
+    position: absolute;
+    right: 0;
+    text-align: left;
+    top: 08px;
+    width: 31%;
+    z-index: 50; 
+}
+
+.navbar-wrapper.sticky{
+    position: relative;
+}
+
+.wrapall{
+    margin-bottom: 0px !important; 
+}
+
+.search_bar input{
+    width: 100%; 
+}
+
+#main-menu ul{
+    background: none repeat scroll 0 0 #ffffff; 
+}
+
+
+.search {
+    left: 87%;
+    margin-top: -109px;
+    position: absolute;
+}
+
+
+.navbar-wrapper {
+    padding-bottom: 20px;
+}
+
+
+#filter {
+    float: none;
+    width: auto;
+}
+
+}
